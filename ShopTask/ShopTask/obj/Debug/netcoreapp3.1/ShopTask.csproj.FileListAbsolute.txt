@@ -1,0 +1,16 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/ShopTask.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/ShopTask.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/ShopTask.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/ShopTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/ShopTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.csproj.CopyComplete
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsReflectionAndThread/ShopTask/ShopTask/obj/Debug/netcoreapp3.1/ShopTask.genruntimeconfig.cache

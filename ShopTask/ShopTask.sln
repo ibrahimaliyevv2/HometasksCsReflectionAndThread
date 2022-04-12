@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopTask", "ShopTask\ShopTask.csproj", "{6C8EB67C-761E-4315-94D4-37299A95E250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{AB5B727C-D043-4B8E-B67C-5921A35B6B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8EB67C-761E-4315-94D4-37299A95E250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8EB67C-761E-4315-94D4-37299A95E250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8EB67C-761E-4315-94D4-37299A95E250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8EB67C-761E-4315-94D4-37299A95E250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5B727C-D043-4B8E-B67C-5921A35B6B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5B727C-D043-4B8E-B67C-5921A35B6B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5B727C-D043-4B8E-B67C-5921A35B6B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5B727C-D043-4B8E-B67C-5921A35B6B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC9BB98-BF10-4E31-A963-A5E69C48C12F}
+	EndGlobalSection
+EndGlobal

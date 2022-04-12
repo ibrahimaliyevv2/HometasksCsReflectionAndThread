@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6C8EB67C-761E-4315-94D4-37299A95E250}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopTask/Program.cs">
+    <Files>
+      <File FileName="ShopTask/Program.cs" Line="32" Column="53" />
+      <File FileName="Models/Order.cs" Line="17" Column="48" />
+      <File FileName="Models/Shop.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopTask" expanded="True">
+            <Node name="Models" expanded="True" />
+            <Node name="ShopTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShopTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
